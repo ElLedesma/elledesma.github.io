@@ -1,0 +1,22 @@
+*
+li{
+    color: black;
+}
+h1 {
+font-family: 'roboto', sans-serif;
+    border: 10px double rgba(143, 66, 66, 0.47);
+    padding: 12px ;
+    margin: 15px;
+    color: rgb(100, 2, 2);
+}
+h2 {
+    border: 10px double rgba(18, 77, 104, 0.67);
+    padding: 10px;
+    margin: 15px;
+    color: rgb(4, 90, 90);
+}
+
+body {
+    background-color: rgba(36, 110, 47, 0.492);
+}
+
